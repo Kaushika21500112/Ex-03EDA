@@ -166,3 +166,6 @@ df.corr()
 
 ## pairwise correlation of columns in dataset
 ![](o30.png)
+
+# RESULT
+The data has been cleaned, outlier has been removed and the EDA on the given data has been performed.
