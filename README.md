@@ -116,55 +116,74 @@ df.corr()
 # OUPUT
 ## Original Data
 ![](o1.png)
-## Data after removing values with multiple null entries
+## Data after removing values with multiple null entries:
 ![](o2.png)
+
 ![](o3.png)
+
 ![](o4.png)
-## Data Cleaning Process
+## Data Cleaning:
 ![](o5.png)
-## Removing Outliers Process
+## Outlier Removal:
 ![](o6.png)
+
 ![](o7.png)
+
 ![](o8.png)
 
-## performing data analysis
-## statistical analysis for single data group
+## performing EDA:
+## statistical analysis for single data group (Univariate non-graphical):
 ![](o9.png)
+
 ![](o10.png)
+
 ![](o11.png)
+
 ![](o12.png)
+
 ![](o13.png)
 
-## statistical analysis for two data groups
+## statistical analysis for two data groups (Bivariate non-graphical):
 ![](o14.png)
+
 ![](o15.png)
+
 ![](o16.png)
+
 ![](o17.png)
 
 ## graphical analysis of categorical data--univariate
 ![](o18.png)
+
 ![](o19.png)
+
 ![](o20.png)
+
 ![](o21.png)
+
 ![](o22.png)
 
 ## graphical analysis of non-categorical data or data with multiple categories--univariate
 ![](o23.png)
+
 ![](o24.png)
 
 ## graphical analysis of categorical data--bivariate
 ![](o25.png)
+
 ![](o26.png)
+
 ![](o27.png)
 
 ## graphical analysis of non-categorical data or data with multiple categories--bivariate
 ![](o28.png)
+
 ![](o29.png)
 
 ## graphical representation of data--multivariate 
 ![](o31.png)
 
-## pairwise correlation of columns in dataset
+## pairwise correlation of columns in dataset (Multivariate non-graphical):
 ![](o30.png)
 
 # RESULT
